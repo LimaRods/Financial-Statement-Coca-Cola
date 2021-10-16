@@ -1,4 +1,4 @@
-# Financial Statement Coca-Cola
+# Financial Statement and Ratio Analysis Coca-Cola
 
 - I have had to analyse the financial statement and ratios of a company during my trainee program at Brainnest.
 - My team picked up Coca-Cola to analyse and after to prepare a 20 min presentation.
